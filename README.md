@@ -6,15 +6,14 @@ Currently I learning much more React and prepearing some new application.
 <br><br/>
 
 ## Main Technologies
-Things I code with
+Technologies which I use
 <p>
- <img src="https://user-images.githubusercontent.com/125756834/220620633-a47cca68-aa92-4426-9482-b9b7efb8eb7f.png" />
-
-  
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://user-images.githubusercontent.com/56607344/198055897-867bf1c5-7e05-4b5d-9035-0b3553e8f110.svg"/>
   <img alt="javascript" src="https://user-images.githubusercontent.com/56607344/198053954-7d0fe696-0a0f-41d7-922c-6371e1188e22.svg" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://user-images.githubusercontent.com/125756834/220621052-2a58debd-ad07-40d4-af46-c46ceba576e4.png" />
+
 </p>
 
 
