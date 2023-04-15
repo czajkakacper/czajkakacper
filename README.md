@@ -1,10 +1,10 @@
-<!-- ### Hi there 👋 I'm Kacper Czajka
+Hi there 👋 I'm Kacper Czajka
 <br><br/>
 I'm 23 years old and I'm IT student. I am improving my knowledge and skills in building web applications. I mainly build project with HTML and React technology.
 <br><br/>
 Currently I learning much more React and prepearing some new application.
 <br><br/>
-
+<!-- ### 
 ## Main Technologies
 Technologies which I use
 <p>
