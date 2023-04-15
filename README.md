@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Kacper Czajka
+<!-- ### Hi there 👋 I'm Kacper Czajka
 <br><br/>
 I'm 23 years old and I'm IT student. I am improving my knowledge and skills in building web applications. I mainly build project with HTML and React technology.
 <br><br/>
@@ -14,7 +14,7 @@ Technologies which I use
   <img alt="react" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="bootstrap" src="https://user-images.githubusercontent.com/56607344/198054948-d1fc8556-beae-494f-bf25-9ba6961f3fc5.svg" />
 </p>
-
+ -->
 
 
 <!--
